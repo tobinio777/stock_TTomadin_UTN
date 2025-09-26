@@ -5,4 +5,4 @@ front/node_modules
 front/package-lock.json
 front/.env
 front/dist
-
+.env
