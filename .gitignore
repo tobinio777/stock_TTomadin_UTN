@@ -6,3 +6,5 @@ front/package-lock.json
 front/.env
 front/dist
 .env
+node_modules
+package-lock.json
